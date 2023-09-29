@@ -1,0 +1,101 @@
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\bin\Debug\turfirma.exe.config
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\bin\Debug\turfirma.exe
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\bin\Debug\turfirma.pdb
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.csproj.AssemblyReference.cache
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Form1.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Properties.Resources.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.csproj.GenerateResource.cache
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.csproj.CoreCompileInputs.cache
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.exe
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.pdb
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.AddClients.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Changeadd.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Client.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Hotel.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Menu.resources
+C:\Users\ORIGINATION\source\repos\turfirma\turfirma\obj\Debug\turfirma.Sales.resources
+G:\УП 02.01\turfirma\turfirma\bin\Debug\turfirma.exe.config
+G:\УП 02.01\turfirma\turfirma\bin\Debug\turfirma.exe
+G:\УП 02.01\turfirma\turfirma\bin\Debug\turfirma.pdb
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.csproj.AssemblyReference.cache
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.csproj.SuggestedBindingRedirects.cache
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.AddClients.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.AddSales.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Changeadd.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.ChangeClients.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Client.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.DeleteClients.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Form1.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Hotel.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Menu.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Properties.Resources.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Sales.resources
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.csproj.GenerateResource.cache
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.csproj.CoreCompileInputs.cache
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.exe
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.pdb
+G:\УП 02.01\turfirma\turfirma\obj\Debug\turfirma.Cap.resources
+H:\turfirma\turfirma\bin\Debug\turfirma.exe.config
+H:\turfirma\turfirma\bin\Debug\turfirma.exe
+H:\turfirma\turfirma\bin\Debug\turfirma.pdb
+H:\turfirma\turfirma\obj\Debug\turfirma.csprojAssemblyReference.cache
+H:\turfirma\turfirma\obj\Debug\turfirma.AddClients.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.AddSales.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Changeadd.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.ChangeClients.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Client.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.DeleteClients.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Form1.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Hotel.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Menu.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Properties.Resources.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.Sales.resources
+H:\turfirma\turfirma\obj\Debug\turfirma.csproj.GenerateResource.cache
+H:\turfirma\turfirma\obj\Debug\turfirma.csproj.CoreCompileInputs.cache
+H:\turfirma\turfirma\obj\Debug\turfirma.exe
+H:\turfirma\turfirma\obj\Debug\turfirma.pdb
+H:\turfirma\turfirma\obj\Debug\turfirma.History.resources
+G:\turfirma\turfirma\bin\Debug\turfirma.exe.config
+G:\turfirma\turfirma\bin\Debug\turfirma.exe
+G:\turfirma\turfirma\bin\Debug\turfirma.pdb
+G:\turfirma\turfirma\obj\Debug\turfirma.csproj.AssemblyReference.cache
+G:\turfirma\turfirma\obj\Debug\turfirma.csproj.SuggestedBindingRedirects.cache
+G:\turfirma\turfirma\obj\Debug\turfirma.AddClients.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.AddSales.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Changeadd.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.ChangeClients.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Client.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.DeleteClients.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Form1.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.History.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Hotel.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Menu.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Properties.Resources.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.Sales.resources
+G:\turfirma\turfirma\obj\Debug\turfirma.csproj.GenerateResource.cache
+G:\turfirma\turfirma\obj\Debug\turfirma.csproj.CoreCompileInputs.cache
+G:\turfirma\turfirma\obj\Debug\turfirma.exe
+G:\turfirma\turfirma\obj\Debug\turfirma.pdb
+E:\turfirma\turfirma\bin\Debug\turfirma.exe.config
+E:\turfirma\turfirma\bin\Debug\turfirma.exe
+E:\turfirma\turfirma\bin\Debug\turfirma.pdb
+E:\turfirma\turfirma\obj\Debug\turfirma.csprojAssemblyReference.cache
+E:\turfirma\turfirma\obj\Debug\turfirma.AddClients.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.AddSales.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Changeadd.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.ChangeClients.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Client.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.DeleteClients.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Form1.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.History.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Hotel.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Id.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Menu.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Properties.Resources.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.Sales.resources
+E:\turfirma\turfirma\obj\Debug\turfirma.csproj.GenerateResource.cache
+E:\turfirma\turfirma\obj\Debug\turfirma.csproj.CoreCompileInputs.cache
+E:\turfirma\turfirma\obj\Debug\turfirma.exe
+E:\turfirma\turfirma\obj\Debug\turfirma.pdb
+E:\turfirma\turfirma\obj\Debug\turfirma.Addhotel.resources
